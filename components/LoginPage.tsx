@@ -214,7 +214,7 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
           </div>
 
           <div className="foot">
-            Taptico &nbsp;&middot;&nbsp; April 2026 &nbsp;&middot;&nbsp; guide.taptico.com
+            &copy; 2026 Taptico &nbsp;&middot;&nbsp; Built by TapticoOS
           </div>
         </div>
       </div>

@@ -391,7 +391,7 @@ export default function GuidePage() {
           <div style={{ fontSize:'16px', fontWeight:'800', color:'white' }}>Taptico<span style={{ color:'#7b8cde' }}>.</span></div>
           <div style={{ fontSize:'12px', color:'rgba(255,255,255,0.35)', marginTop:'4px' }}>Slingshot Command Center User Guide &middot; April 2026</div>
         </div>
-        <div style={{ fontSize:'12px', color:'rgba(255,255,255,0.45)', fontStyle:'italic' }}>&quot;Fortune 500 firepower for teams that move fast.&quot;</div>
+        <div style={{ fontSize:'12px', color:'rgba(255,255,255,0.35)', fontStyle:'italic' }}>&copy; 2026 Taptico &nbsp;&middot;&nbsp; Built by TapticoOS</div>
         <div style={{ fontSize:'12px', color:'rgba(255,255,255,0.35)', textAlign:'right' }}>Internal Use Only &middot; Bo@taptico.com<br />Questions? Tag @Bo in #war-room</div>
       </div>
     </div>
