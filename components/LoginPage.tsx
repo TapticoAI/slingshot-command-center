@@ -157,8 +157,8 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
             <div className="c c-br" />
 
             <div className="wm">
-              <div className="logo">Taptico<span className="logo-dot">.</span></div>
-              <div className="logo-sub">AI Operations Platform</div>
+              <img src="/taptico-logo-white.png" alt="Taptico" style={{height:'56px',width:'auto',objectFit:'contain',animation:'logoIn 1s ease-out 0.2s both',filter:'drop-shadow(0 0 18px rgba(123,140,222,0.45))'}} />
+              <div className="logo-sub" style={{marginTop:'10px'}}>AI Operations Platform</div>
             </div>
 
             <div className="div" />
