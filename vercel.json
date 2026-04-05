@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "framework": "nextjs",
+  "env": {
+    "GUIDE_PASSWORD": "slingshot2026"
+  }
+}

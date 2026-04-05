@@ -1,0 +1,19 @@
+[
+  {"name":"gohighlevel","displayName":"GoHighLevel CRM","icon":"🏆","description":"Full GoHighLevel CRM — contacts, pipelines, conversations, calendars, and workflows via the GHL API v2.","badge":null},
+  {"name":"instantly-ai","displayName":"Instantly.ai","icon":"📧","description":"Manage cold email campaigns, leads, and analytics in Instantly.ai. Email warming, outreach, reply tracking.","badge":null},
+  {"name":"apollo","displayName":"Apollo.io","icon":"🔍","description":"Prospect enrichment via Apollo.io — people search, org data, verified emails, and contact intelligence.","badge":null},
+  {"name":"abm-outbound","displayName":"ABM Outbound","icon":"🎯","description":"Full ABM automation: LinkedIn → email → handwritten letter. Scrapes, enriches, and orchestrates multi-channel outreach.","badge":null},
+  {"name":"competitor-spy","displayName":"Competitor Spy","icon":"🕵️","description":"Instant competitive intelligence dossier on any company. Strengths, weaknesses, positioning, and threat level in minutes.","badge":null},
+  {"name":"perplexity","displayName":"Perplexity Research","icon":"🔬","description":"AI-powered deep research with real citations. Grounded answers on any topic — use for anything that needs to be verifiably accurate.","badge":null},
+  {"name":"campaign-orchestrator","displayName":"Campaign Orchestrator","icon":"🔄","description":"Multi-channel follow-up sequences — coordinates email, LinkedIn, and call touchpoints in the right order.","badge":"NEW"},
+  {"name":"lead-priority-scorer","displayName":"Lead Priority Scorer","icon":"📊","description":"Deterministic lead scoring — pulls from GHL and scores leads by fit, intent, and urgency. No guesswork.","badge":"NEW"},
+  {"name":"cold-email-personalizer","displayName":"Cold Email Personalizer","icon":"✉️","description":"Research-then-write prospecting emails. Pulls live data on the target before a single word is written.","badge":"NEW"},
+  {"name":"campaign-copywriter","displayName":"Campaign Copywriter","icon":"✍️","description":"Copy factory using PAS, BAB, AIDA, and Hormozi frameworks. Sequences, ads, landing pages, LinkedIn — done fast.","badge":"NEW"},
+  {"name":"marketing-strategy-pmm","displayName":"Marketing Strategy PMM","icon":"🗺️","description":"Positioning, ICP definition, GTM strategy, competitive battlecards, and launch playbooks. April Dunford methodology built in.","badge":"NEW"},
+  {"name":"linkedin-content","displayName":"LinkedIn Content","icon":"💼","description":"LinkedIn post writing with hook formulas, formatting rules, and algorithm-aware engagement patterns.","badge":null},
+  {"name":"ghost-proposal","displayName":"Ghost Proposal","icon":"📄","description":"Full client proposals from a brief — Scribe + Roy + Iris deployed together. Paste the brief, get a boardroom-ready doc.","badge":null},
+  {"name":"hubspot","displayName":"HubSpot","icon":"🔗","description":"HubSpot CRM and CMS — contacts, companies, deals, and content management for clients on HubSpot.","badge":null},
+  {"name":"n8n-api","displayName":"n8n Automation","icon":"⚙️","description":"Workflow automation via n8n — build, trigger, and manage automation flows. Works with self-hosted and n8n Cloud.","badge":null},
+  {"name":"asana","displayName":"Asana","icon":"✅","description":"Project management — create tasks, update status, assign work, check deadlines. Full Asana API integration.","badge":null},
+  {"name":"calendly","displayName":"Calendly","icon":"📅","description":"Pull booked calls, check availability, and trigger pre-call briefs automatically when a discovery call lands.","badge":null}
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "number": 1,
+    "icon": "📧",
+    "name": "Email SOP — TO vs. CC",
+    "description": "TO = you are expected to act. CC = you are reading for awareness only. Never put someone in TO if you don't need them to do something. Never bury action items in a CC. Every email sent by this squad follows this rule."
+  },
+  {
+    "number": 2,
+    "icon": "💀",
+    "name": "Post Mortem SOP — Every Failure Gets Documented",
+    "description": "When something breaks, fails, or goes sideways: fix it first, then document it immediately. What happened, what caused it, how it was fixed, how we prevent it next time. Saved to Drive → Post Mortem SOPs. No exceptions, no 'I'll do it later.'"
+  },
+  {
+    "number": 3,
+    "icon": "😈",
+    "name": "Lucy QA Gate — All Major Deliverables",
+    "description": "Before ANY major deliverable goes to Nick or a client, it routes through Lucy first. Strategy docs, proposals, pitches, client-facing content, major builds — Lucy reviews it. Pass = ship it. Conditional Pass = fix critical issues. Fail = back to drawing board. No exceptions."
+  },
+  {
+    "number": 4,
+    "icon": "📰",
+    "name": "Murphy Press Release — Every Launch",
+    "description": "Every launch, every major milestone, every new offering gets a press release treatment from Murphy. Headline, hook, key quotes, boilerplate. Even if it's internal — we treat launches like they matter, because they do."
+  },
+  {
+    "number": 5,
+    "icon": "🎯",
+    "name": "Mission Mode — Complex Multi-Phase Projects",
+    "description": "For any project with 3+ phases, multi-day scope, or multiple agents needed: enter Mission Mode. Bo acts as Orchestrator, Slingshots are workers, all state is tracked in a MISSION.md file, and the human gets checkpoints at each milestone. Say 'enter mission mode' to start one."
+  },
+  {
+    "number": 6,
+    "icon": "🔄",
+    "name": "OODA Loop — Orchestration Protocol",
+    "description": "Before any task dispatch: Observe (what's the actual request?), Orient (which agent fits?), Decide (cleanest path), Act (dispatch, no second-guessing). This is how Bo makes decisions. You can invoke it: 'Run an OODA loop on [decision].'"
+  },
+  {
+    "number": 7,
+    "icon": "📊",
+    "name": "Report Delivery Standards — Every Report Gets Delivered Right",
+    "description": "Every report, strategy doc, and intelligence deliverable: (1) Saved to Google Drive → Bo's Work folder, (2) Formatted in Taptico-branded HTML with navy/royal blue design. No half-delivered reports. No raw markdown dumps. If it's worth making, it's worth delivering properly."
+  },
+  {
+    "number": 8,
+    "icon": "🧠",
+    "name": "First Principles Thinking — Framework",
+    "description": "When stuck or when conventional approaches aren't working: strip the problem to its fundamental truths and rebuild from there. Any agent can run this on request. Say 'First principles this: [problem]' and get a clean breakdown from bedrock assumptions up."
+  }
+]
