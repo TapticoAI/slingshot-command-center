@@ -49,7 +49,7 @@ export default function GuidePage() {
             </div>
           </div>
           <div style={{ textAlign:'right' }}>
-            <div style={{ fontSize:'22px', fontWeight:'800', color:'rgba(255,255,255,0.9)' }}>Taptico<span style={{ color:'#7b8cde' }}>.</span></div>
+            <img src="/taptico-logo-white.png" alt="Taptico" style={{ height:'48px', width:'auto', objectFit:'contain', filter:'drop-shadow(0 0 12px rgba(123,140,222,0.4))', display:'block', marginLeft:'auto', marginBottom:'8px' }} />
             <div style={{ fontSize:'11px', color:'rgba(255,255,255,0.4)', marginTop:'6px' }}>Version 1.0 &middot; April 2026<br />Internal Use Only</div>
           </div>
         </div>
